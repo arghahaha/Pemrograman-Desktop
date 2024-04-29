@@ -1,0 +1,7 @@
+C:\Users\drama\source\repos\quiz1desktop\quiz1desktop\bin\Debug\quiz1desktop.exe.config
+C:\Users\drama\source\repos\quiz1desktop\quiz1desktop\bin\Debug\quiz1desktop.exe
+C:\Users\drama\source\repos\quiz1desktop\quiz1desktop\bin\Debug\quiz1desktop.pdb
+C:\Users\drama\source\repos\quiz1desktop\quiz1desktop\obj\Debug\quiz1desktop.csproj.AssemblyReference.cache
+C:\Users\drama\source\repos\quiz1desktop\quiz1desktop\obj\Debug\quiz1desktop.csproj.CoreCompileInputs.cache
+C:\Users\drama\source\repos\quiz1desktop\quiz1desktop\obj\Debug\quiz1desktop.exe
+C:\Users\drama\source\repos\quiz1desktop\quiz1desktop\obj\Debug\quiz1desktop.pdb
